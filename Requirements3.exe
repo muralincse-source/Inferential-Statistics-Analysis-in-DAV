@@ -1,0 +1,14 @@
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
+
+## Requirements
+
+Install the required libraries using:
+
+```bash
+pip install pandas numpy matplotlib seaborn scipy
